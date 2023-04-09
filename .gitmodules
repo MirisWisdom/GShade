@@ -1,0 +1,4 @@
+[submodule "gshade-assets"]
+	path = gshade-assets
+	url = ../gshade.assets
+	branch = master
